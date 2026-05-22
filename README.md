@@ -1,25 +1,159 @@
+<div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D9488,50:10B981,100:06B6D4&height=220&section=header&text=Atharva%20Bamgude&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%7C%20Full-Stack%20Builder%20%7C%20Systems%20Architect&descAlignY=55&descSize=18" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/atharva-bamgude/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bamgudeatharva@gmail.com) 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=10B981&center=true&vCenter=true&width=650&lines=Building+AI+Systems+from+Scratch;Full-Stack+%2B+ML+%2B+Systems+Engineering;From+120M+SLMs+to+Enterprise+Red-Teaming;Decentralized+Protocols+%26+AI+Safety" />
+</a>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=plastic&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=plastic&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=plastic&logo=bun&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=plastic&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=plastic&logo=Prisma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Atharva0808&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Atharva0808&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva0808&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Atharva0808&label=Profile%20Views&color=0D9488&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/Atharva0808?label=Followers&style=flat-square&color=10B981" />
+  <img src="https://img.shields.io/badge/Focus-AI%20Systems%20%2B%20Full--Stack-10B981?style=flat-square" />
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Atharva0808&theme=dark&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Atharva0808&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Atharva0808&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 About Me
+
+<div align="center">
+
+![Name](https://img.shields.io/badge/👤%20Atharva%20Bamgude-informational?style=flat-square&color=10B981)
+![Location](https://img.shields.io/badge/📍%20India-informational?style=flat-square&color=0f172a)
+![Role](https://img.shields.io/badge/💼%20AI%20%2F%20ML%20Engineer-informational?style=flat-square&color=0f172a)
+
+</div>
+
+<br/>
+
+- 🔭 **Currently Building:** Pebble SLM (120M params) · Crimson AI Safety Platform · Bloom Decentralized Messaging  
+- 🌱 **Learning:** Advanced ML Architectures · State Space Models · Cloud Infrastructure (AWS)  
+- 💬 **Ask Me About:** LLM Red-Teaming · RAG Pipelines · Mamba/SSM Architectures · Full-Stack Systems  
+- 📧 **Email:** bamgudeatharva@gmail.com  
+- ⚡ **Fun Fact:** I build language models from scratch — tokenizer, architecture, training loop, all of it  
+
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp,c,rust,html,css,php&perline=10" />
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,django,fastapi,threejs,tailwind,graphql&perline=10" />
+<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&perline=10" />
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,azure,firebase,vercel,supabase,mongodb,postgres,mysql,sqlite,prisma&perline=10" />
+<br/>
+<img src="https://skillicons.dev/icons?i=git,githubactions,bun&perline=10" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🪨 Pebble SLM</h3>
+      <p align="center">
+        <a href="https://github.com/Atharva0808/pebble">
+          <img src="https://img.shields.io/badge/View_Repo-0D9488?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">A <b>120M-parameter</b> general-purpose small language model built <b>entirely from scratch</b> using the Mamba-2 Selective State Space architecture. Custom tokenizer, training loop, and inference pipeline.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🔴 Crimson</h3>
+      <p align="center">
+        <a href="https://github.com/Atharva0808/Crimson">
+          <img src="https://img.shields.io/badge/View_Repo-0D9488?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">A comprehensive, full-stack <b>AI safety ecosystem</b> for identifying, exploiting, and patching LLM vulnerabilities. Built for enterprise ML teams bridging offensive security and production AI.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 Askit</h3>
+      <p align="center">
+        <a href="https://github.com/Atharva0808/Askit">
+          <img src="https://img.shields.io/badge/View_Repo-0D9488?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">A premium, high-performance <b>AI web application</b> with multi-modal agentic architecture. Integrates RAG, Model Context Protocol, and tool-use for intelligent conversational AI.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🌸 Bloom</h3>
+      <p align="center">
+        <a href="https://github.com/Atharva0808/Bloom">
+          <img src="https://img.shields.io/badge/View_Repo-0D9488?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">A next-generation <b>decentralized messaging platform</b> built for privacy and resilience. Powered by the Nostr protocol and a custom peer-to-peer Mesh Engine with E2E encryption.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Atharva0808&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=ffffff&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva0808&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=10B981&text_color=ffffff&include_all_commits=true&count_private=true" />
+
+</div>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com/?user=Atharva0808&theme=tokyonight&hide_border=true&background=0D1117&stroke=10B981&ring=10B981&fire=F59E0B&currStreakLabel=10B981" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=Atharva0808&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Atharva0808&bg_color=0d1117&color=10B981&line=10B981&point=F59E0B&area=true&hide_border=true)
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharva-bamgude/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Atharva0808)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bamgudeatharva@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D9488,50:10B981,100:06B6D4&height=120&section=footer" />
+
+<sub>⚡ Building AI systems end-to-end — from architecture to deployment</sub>
+
+</div>
