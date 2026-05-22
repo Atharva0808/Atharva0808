@@ -3,13 +3,13 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:BE123C,50:E11D48,100:FB7185&height=220&section=header&text=Atharva%20Bamgude&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%7C%20Full-Stack%20Builder%20%7C%20Systems%20Architect&descAlignY=55&descSize=18" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=E11D48&center=true&vCenter=true&width=500&lines=Full-Stack+%2B+ML+%2B+AI+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF6B9D&center=true&vCenter=true&width=500&lines=Full-Stack+%2B+ML+%2B+AI+Systems" />
 </a>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Atharva0808&label=Profile%20Views&color=BE123C&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/Atharva0808?label=Followers&style=flat-square&color=E11D48" />
-  <img src="https://img.shields.io/badge/Focus-AI%20Systems%20%2B%20Full--Stack-E11D48?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Atharva0808&label=Profile%20Views&color=F472B6&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/Atharva0808?label=Followers&style=flat-square&color=FF6B9D" />
+  <img src="https://img.shields.io/badge/Focus-AI%20Systems%20%2B%20Full--Stack-FF6B9D?style=flat-square" />
 </p>
 
 </div>
@@ -20,7 +20,7 @@
 
 <div align="center">
 
-![Name](https://img.shields.io/badge/👤%20Atharva%20Bamgude-informational?style=flat-square&color=E11D48)
+![Name](https://img.shields.io/badge/👤%20Atharva%20Bamgude-informational?style=flat-square&color=FF6B9D)
 ![Location](https://img.shields.io/badge/📍%20India-informational?style=flat-square&color=0f172a)
 ![Role](https://img.shields.io/badge/💼%20AI%20%2F%20ML%20Engineer-informational?style=flat-square&color=0f172a)
 
@@ -78,7 +78,7 @@
 
 <div align="center">
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Atharva0808&bg_color=0d1117&color=E11D48&line=E11D48&point=FB7185&area=true&hide_border=true)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Atharva0808&bg_color=0d1117&color=FF6B9D&line=FF6B9D&point=F9A8D4&area=true&hide_border=true)
 
 </div>
 
