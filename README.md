@@ -1,15 +1,15 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:A855F7,100:D946EF&height=220&section=header&text=Atharva%20Bamgude&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%7C%20Full-Stack%20Builder%20%7C%20Systems%20Architect&descAlignY=55&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:BE123C,50:E11D48,100:FB7185&height=220&section=header&text=Atharva%20Bamgude&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%7C%20Full-Stack%20Builder%20%7C%20Systems%20Architect&descAlignY=55&descSize=18" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=500&lines=Full-Stack+%2B+ML+%2B+AI+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=E11D48&center=true&vCenter=true&width=500&lines=Full-Stack+%2B+ML+%2B+AI+Systems" />
 </a>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Atharva0808&label=Profile%20Views&color=7C3AED&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/Atharva0808?label=Followers&style=flat-square&color=A855F7" />
-  <img src="https://img.shields.io/badge/Focus-AI%20Systems%20%2B%20Full--Stack-A855F7?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Atharva0808&label=Profile%20Views&color=BE123C&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/Atharva0808?label=Followers&style=flat-square&color=E11D48" />
+  <img src="https://img.shields.io/badge/Focus-AI%20Systems%20%2B%20Full--Stack-E11D48?style=flat-square" />
 </p>
 
 </div>
@@ -20,7 +20,7 @@
 
 <div align="center">
 
-![Name](https://img.shields.io/badge/👤%20Atharva%20Bamgude-informational?style=flat-square&color=A855F7)
+![Name](https://img.shields.io/badge/👤%20Atharva%20Bamgude-informational?style=flat-square&color=E11D48)
 ![Location](https://img.shields.io/badge/📍%20India-informational?style=flat-square&color=0f172a)
 ![Role](https://img.shields.io/badge/💼%20AI%20%2F%20ML%20Engineer-informational?style=flat-square&color=0f172a)
 
@@ -30,7 +30,7 @@
 
 - 🔭 **Currently Building:** Pebble SLM — a 120M-parameter language model from scratch  
 - 🌱 **Learning:** AI · ML · Backend Engineering · Cloud Infrastructure  
-- 💬 **Ask Me About:** LLM Red-Teaming · RAG Pipelines · Mamba/SSM Architectures · Full-Stack Systems  
+- 💬 **Ask Me About:** Python · React · AI/ML · System Design  
 - 📧 **Email:** bamgudeatharva@gmail.com  
 - ⚡ **Fun Fact:** I build a language model from scratch — tokenizer, architecture, training loop, all of it  
 
@@ -40,11 +40,9 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,java,rust&perline=10" />
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,react,nextjs,nodejs,django,fastapi&perline=9" />
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,django,fastapi,tailwind&perline=10" />
-<br/>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,aws,firebase,mongodb,postgres,git&perline=10" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,aws,mongodb,postgres,firebase,git&perline=9" />
 
 </div>
 
@@ -52,16 +50,16 @@
 
 ## 🚀 Projects
 
-- 🔹 **Pebble SLM**  
+- **Pebble SLM**  
   A 120M-parameter general-purpose small language model built entirely from scratch using Mamba-2 SSM architecture
 
-- 🔹 **Crimson**  
+- **Crimson**  
   Full-stack AI safety ecosystem for identifying, exploiting, and patching LLM vulnerabilities
 
-- 🔹 **Askit**  
+- **Askit**  
   High-performance AI web app with multi-modal agentic architecture, RAG, and Model Context Protocol
 
-- 🔹 **Bloom**  
+- **Bloom**  
   Decentralized messaging platform powered by Nostr protocol with a custom P2P Mesh Engine and E2E encryption
 
 ---
@@ -70,7 +68,7 @@
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=Atharva0808&theme=discord&no-frame=true&no-bg=true&margin-w=10&column=7)
+![](https://github-profile-trophy.vercel.app/?username=Atharva0808&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7)
 
 </div>
 
@@ -80,7 +78,7 @@
 
 <div align="center">
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Atharva0808&bg_color=0d1117&color=A855F7&line=A855F7&point=D946EF&area=true&hide_border=true)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Atharva0808&bg_color=0d1117&color=E11D48&line=E11D48&point=FB7185&area=true&hide_border=true)
 
 </div>
 
@@ -100,7 +98,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:A855F7,100:D946EF&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:BE123C,50:E11D48,100:FB7185&height=120&section=footer" />
 
 <sub>⚡ Building AI systems end-to-end — from architecture to deployment</sub>
 
