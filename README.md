@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F1D1D,50:DC2626,100:EF4444&height=220&section=header&text=Atharva%20Bamgude&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%7C%20Full-Stack%20Builder%20%7C%20Systems%20Architect&descAlignY=55&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:BE123C,50:E11D48,100:FB7185&height=220&section=header&text=Atharva%20Bamgude&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%7C%20Full-Stack%20Builder%20%7C%20Systems%20Architect&descAlignY=55&descSize=18" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=F87171&center=true&vCenter=true&width=500&lines=Full-Stack+%2B+ML+%2B+AI+Systems" />
@@ -98,7 +98,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F1D1D,50:DC2626,100:EF4444&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:BE123C,50:E11D48,100:FB7185&height=120&section=footer" />
 
 <sub>⚡ Building AI systems end-to-end — from architecture to deployment</sub>
 
