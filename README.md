@@ -1,15 +1,15 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:334155,100:94A3B8&height=220&section=header&text=Atharva%20Bamgude&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%7C%20Full-Stack%20Builder%20%7C%20Systems%20Architect&descAlignY=55&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0284C7,100:38BDF8&height=220&section=header&text=Atharva%20Bamgude&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%7C%20Full-Stack%20Builder%20%7C%20Systems%20Architect&descAlignY=55&descSize=18" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=F8FAFC&center=true&vCenter=true&width=500&lines=Full-Stack+%2B+ML+%2B+AI+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=500&lines=Full-Stack+%2B+ML+%2B+AI+Systems" />
 </a>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Atharva0808&label=Profile%20Views&color=94A3B8&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/Atharva0808?label=Followers&style=flat-square&color=94A3B8" />
-  <img src="https://img.shields.io/badge/Focus-AI%20Systems%20%2B%20Full--Stack-94A3B8?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Atharva0808&label=Profile%20Views&color=38BDF8&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/Atharva0808?label=Followers&style=flat-square&color=38BDF8" />
+  <img src="https://img.shields.io/badge/Focus-AI%20Systems%20%2B%20Full--Stack-38BDF8?style=flat-square" />
 </p>
 
 </div>
@@ -20,9 +20,9 @@
 
 <div align="center">
 
-![Name](https://img.shields.io/badge/👤%20Atharva%20Bamgude-informational?style=flat-square&color=475569)
-![Location](https://img.shields.io/badge/📍%20India-informational?style=flat-square&color=1E293B)
-![Role](https://img.shields.io/badge/💼%20AI%20%2F%20ML%20Engineer-informational?style=flat-square&color=1E293B)
+![Name](https://img.shields.io/badge/👤%20Atharva%20Bamgude-informational?style=flat-square&color=38BDF8)
+![Location](https://img.shields.io/badge/📍%20India-informational?style=flat-square&color=0f172a)
+![Role](https://img.shields.io/badge/💼%20AI%20%2F%20ML%20Engineer-informational?style=flat-square&color=0f172a)
 
 </div>
 
@@ -68,7 +68,7 @@
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=Atharva0808&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7)
+![](https://github-profile-trophy.vercel.app/?username=Atharva0808&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7)
 
 </div>
 
@@ -78,7 +78,7 @@
 
 <div align="center">
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Atharva0808&bg_color=0d1117&color=94A3B8&line=64748B&point=CBD5E1&area=true&hide_border=true)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Atharva0808&bg_color=0d1117&color=38BDF8&line=38BDF8&point=BAE6FD&area=true&hide_border=true)
 
 </div>
 
@@ -98,7 +98,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:334155,100:94A3B8&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0284C7,100:38BDF8&height=120&section=footer" />
 
 <sub>⚡ Building AI systems end-to-end — from architecture to deployment</sub>
 
