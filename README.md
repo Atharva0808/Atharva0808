@@ -7,9 +7,9 @@
 </a>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Atharva0808&label=Profile%20Views&color=EAE8E4&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/Atharva0808?label=Followers&style=flat-square&color=EAE8E4" />
-  <img src="https://img.shields.io/badge/Focus-AI%20Systems%20%2B%20Full--Stack-EAE8E4?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Atharva0808&label=Profile%20Views&color=0f172a&labelColor=EAE8E4&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/Atharva0808?label=Followers&style=flat-square&color=0f172a&labelColor=EAE8E4" />
+  <img src="https://img.shields.io/badge/Focus-AI%20Systems%20%2B%20Full--Stack-0f172a?style=flat-square&labelColor=EAE8E4" />
 </p>
 
 </div>
