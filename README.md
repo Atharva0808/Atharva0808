@@ -64,16 +64,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=Atharva0808&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7)
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
