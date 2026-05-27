@@ -29,8 +29,8 @@
 <br/>
 
 - 🔭 **Currently Building:** Pebble SLM — a 120M-parameter language model from scratch  
-- 🌱 **Learning:** AI · ML · Backend Engineering · Cloud Infrastructure  
-- 💬 **Ask Me About:** Python · React · AI/ML · System Design  
+- 🌱 **Learning:** Backend · ML · AI · Cloud Infrastructure  
+- 💬 **Ask Me About:** Python · React · AI/ML · System Design 
 - 📧 **Email:** bamgudeatharva@gmail.com  
 - ⚡ **Fun Fact:** I build a language model from scratch — tokenizer, architecture, training loop, all of it  
 
